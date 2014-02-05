@@ -15,6 +15,20 @@ echo "<a href='oop/static.php'>. Satic</a><br/>";
 echo "<a href='oop/static1.php'>. Static1</a><br/>";
 
 echo "<a href='oop/traits.php'>. traits</a><br/>";
+echo "<a href='oop/traits1.php'>. traits 1</a><br/>";
+echo "<a href='oop/traits2.php'>. traits2</a><br/>";
+echo "<a href='oop/traits3.php'>. traits3</a><br/>";
+echo "<a href='oop/traits4.php'>. traits4</a><br/>";
+echo "<a href='oop/traits5.php'>. traits5</a><br/>";
+echo "<a href='oop/traits6.php'>. traits6</a><br/>";
+echo "<a href='oop/traits7.php'>. traits7</a><br/>";
+echo "<a href='oop/traits8.php'>. traits8</a><br/>";
+echo "<a href='oop/traits9.php'>. traits9</a><br/>";
+echo "<a href='oop/traits10.php'>. traits10</a><br/>";
+
+echo "<a href='oop/overload.php'>. Overload </a><br/>";
+echo "<a href='oop/overload1.php'>. Overload 1 </a><br/>";
+
 echo "<a href='oop/.php'>. </a><br/>";
 
 echo "<a href='/.php'>. </a><br/>";

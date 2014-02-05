@@ -7,7 +7,7 @@
  */
 //Пример #2 Пример статического метода
 
-class Foo1 {
+class Foo {
     public static function aStaticMethod() {
         // ...
     }
